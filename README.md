@@ -4,7 +4,7 @@
 ## Description
 This project will be evaluating the housing market trends in Houston and San Antonio, Texas. The Team will evaluate the living preferences (renting vs owning) of persons currently living in Texas. We used multiple data sources to determine the best option of whether to rent or buy a property.
 
-**Motivation**
+**Motivation**:
 There appears to be an increase in population in San Antonio and surrounding areas, as there are multiple housing and commercial structures being erected seemingly weekly. The purpose of this analytical research is to make the best decision with regards to renting vs buying. 
 We will be extracting and examining data from areas in and around San Antonio and Houston to identify trends. This information can prove to be useful to new property developers, real estate investors, and persons relocating to those areas.
 Is it more cost effective to rent vs buy a property?
